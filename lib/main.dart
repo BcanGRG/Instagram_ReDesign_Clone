@@ -377,7 +377,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
                                     Text(
-                                      "Today's Birthdays",
+                                      "Today's Birthdayss",
                                       style: TextStyle(fontSize: 22),
                                     ),
                                     SizedBox(height: 6),
