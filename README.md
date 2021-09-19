@@ -1,7 +1,7 @@
 # Instagram ReDesign Clone
 
 ## ScreenShots
-- ![](./ss/ss4.jpg)
+- ![](./ss/ss5.jpg)
 
 
 
