@@ -1,4 +1,4 @@
-# instagram_redesign_clone
+# instagram_redesign_cloness
 
 A new Flutter project.
 
