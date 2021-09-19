@@ -1,8 +1,11 @@
 # Instagram ReDesign Clone
 
 ## ScreenShots
-![](./ss/ss1.jpg)  
-![](./ss/ss2.jpg)  
+
+### Main Screen
+![](./ss/ss1.jpg) 
+![](./ss/ss2.jpg)
+### Stories 
 ![](./ss/ss3.jpg)
 
 
